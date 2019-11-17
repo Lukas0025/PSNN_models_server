@@ -1,2 +1,2 @@
-# PYSNN_models_server
-Models server for PYSNN
+# PYSNN models server
+Models server for PYSNN. 
