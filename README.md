@@ -11,7 +11,7 @@ You can setup yours PYSNN models server on own server only edit config.php and u
 ## Client
 
 client is part of PYSNN lib
-* [wiki](https://github.com/Lukas0025/PYSNN/wiki)
+* [wiki](https://github.com/Lukas0025/PYSNN/wiki/PYSNN-server-client)
 
 ## Getting help
 
