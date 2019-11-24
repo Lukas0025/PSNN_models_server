@@ -10,7 +10,7 @@ You can setup yours PSNN models server on own server only edit config.php and up
 
 ## Client
 
-client is part of PYSNN lib
+client is part of PSNN lib
 * [wiki](https://github.com/Lukas0025/PSNN/wiki/PSNN-server-client)
 
 ## Getting help
