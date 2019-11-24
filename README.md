@@ -1,27 +1,27 @@
 # PYSNN models server
-[![PYSNN](https://raw.githubusercontent.com/Lukas0025/PYSNN/master/assets/logo.svg?sanitize=true)](https://pypi.org/project/PYSNN/)
+[![PSNN](https://raw.githubusercontent.com/Lukas0025/PSNN/master/assets/logo.svg?sanitize=true)](https://pypi.org/project/PSNN/)
 
-[![issues](https://img.shields.io/github/issues/Lukas0025/PYSNN)](https://github.com/Lukas0025/PYSNN/issues)
-[![closed issues](https://img.shields.io/github/issues-closed-raw/Lukas0025/PYSNN)](https://github.com/Lukas0025/PYSNN/issues)
-[![size](https://img.shields.io/github/repo-size/Lukas0025/PYSNN)](https://github.com/Lukas0025/PYSNN/)
-[![last commit](https://img.shields.io/github/last-commit/Lukas0025/PYSNN)](https://github.com/Lukas0025/PYSNN/)
+[![issues](https://img.shields.io/github/issues/Lukas0025/PYSNN)](https://github.com/Lukas0025/PSNN/issues)
+[![closed issues](https://img.shields.io/github/issues-closed-raw/Lukas0025/PYSNN)](https://github.com/Lukas0025/PSNN/issues)
+[![size](https://img.shields.io/github/repo-size/Lukas0025/PYSNN)](https://github.com/Lukas0025/PSNN/)
+[![last commit](https://img.shields.io/github/last-commit/Lukas0025/PYSNN)](https://github.com/Lukas0025/PSNN/)
 
-You can setup yours PYSNN models server on own server only edit config.php and upload on server with PHP and MySQL
+You can setup yours PSNN models server on own server only edit config.php and upload on server with PHP and MySQL
 
 ## Client
 
 client is part of PYSNN lib
-* [wiki](https://github.com/Lukas0025/PYSNN/wiki/PYSNN-server-client)
+* [wiki](https://github.com/Lukas0025/PSNN/wiki/PYSNN-server-client)
 
 ## Getting help
 
 **NOTE**: You can find something in wiki
 
-* Issues: https://github.com/Lukas0025/PYSNN_models_server/issues
+* Issues: https://github.com/Lukas0025/PSNN_models_server/issues
 
 ## Reporting bugs and contributing
 
-* Want to report a bug or request a feature? Please open [an issue](https://github.com/Lukas0025/PYSNN_models_server/issues/new).
+* Want to report a bug or request a feature? Please open [an issue](https://github.com/Lukas0025/PSNN_models_server/issues/new).
 * Want to help us with build? Contact me
 
 ## Licensing
