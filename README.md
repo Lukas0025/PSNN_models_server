@@ -1,4 +1,4 @@
-# PYSNN models server
+# PSNN models server
 [![PSNN](https://raw.githubusercontent.com/Lukas0025/PSNN/master/assets/logo.svg?sanitize=true)](https://pypi.org/project/PSNN/)
 
 [![issues](https://img.shields.io/github/issues/Lukas0025/PYSNN)](https://github.com/Lukas0025/PSNN/issues)
